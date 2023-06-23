@@ -1,4 +1,4 @@
-# HTML-CSS-JS-Projects
+# HTML-CSS-JS Basic Projects
 
 # Live Demo 
 1. Multiply This https://graceful-cajeta-8197df.netlify.app/  
